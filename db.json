@@ -1,0 +1,56 @@
+{
+  "chats": [
+    {
+      "id": 1,
+      "profileImage": null,
+      "userName": "Orchid Pharmed",
+      "chats": [
+        {
+          "id": 1,
+          "type": 1,
+          "content": "Hi Orchid Pharmed",
+          "date": 1656094600795
+        },
+        {
+          "id": 2,
+          "type": 2,
+          "content": "Hello there",
+          "date": 1656094600795
+        },
+        {
+          "id": 3,
+          "type": 1,
+          "content": "I heared you are hiring, aren't you?",
+          "date": 1656094600795
+        },
+        {
+          "id": 4,
+          "type": 2,
+          "content": "yes, do you wanna join us?",
+          "date": 1656094600795
+        },
+        {
+          "id": 5,
+          "type": 1,
+          "content": "Sure!!! I would be glad. ",
+          "date": 1656094600795
+        }
+      ],
+      "previewText": "Check this url: https://www.axon.me/"
+    },
+    {
+      "id": 2,
+      "profileImage": null,
+      "userName": "Zeinab",
+      "chats": [],
+      "previewText": "Do you have time for lunch?"
+    },
+    {
+      "id": 3,
+      "profileImage": null,
+      "userName": "Bahar",
+      "chats": [],
+      "previewText": "Hi, How you doing?"
+    }
+  ]
+}
