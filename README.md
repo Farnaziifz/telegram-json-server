@@ -5,6 +5,7 @@ expose API using json-server
 ## Run Server
 
 ```bash
+$ npm i 
 $ json-server --watch db.json --port 3004
 ```
 
